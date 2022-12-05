@@ -6,8 +6,8 @@ setup(
     description="Example of an internal Python library that can be used within a Data Team.",
     author="Andrew P",
     install_requires=[
-        "slacker"    
+        "slacker", 
+        "python-dotenv"
     ],
     packages=find_packages()
 )
-

@@ -1,4 +1,5 @@
 from slacker import Slacker
+from config import SLACK_CHANNEL, SLACK_ICON, SLACK_TOKEN, SLACK_USERNAME
 
 class Slack:
 
